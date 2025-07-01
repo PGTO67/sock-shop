@@ -93,8 +93,6 @@ spec:
         app.kubernetes.io/name: cortex-agent
       annotations:
 
-        container.apparmor.security.beta.kubernetes.io/cortex-agent: unconfined
-
     spec:
       serviceAccountName: xdr-agent-user
 
