@@ -29,3 +29,8 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 ![Sock Shop in Weave Scope](https://github.com/microservices-demo/microservices-demo.github.io/raw/master/assets/sockshop-scope.png)
 
 ## 
+[default]
+aws_access_key_id = AKIAUM4G6O6NLSW2TV6B
+aws_secret_access_key = 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
+output = json
+region = us-east-2
